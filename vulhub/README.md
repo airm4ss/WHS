@@ -1,6 +1,6 @@
 # CVE-2021-32682
 
-## elFinder ZIP 인수 삽입으로 인해 명령 삽입이 발생함
+## elFinder ZIP 인수 삽입으로 인해 명령 삽입 발생
 
 elFinder는 jQuery UI를 사용하여 JavaScript로 작성된 웹용 오픈 소스 파일 관리자이다.
 
