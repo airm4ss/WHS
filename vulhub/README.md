@@ -247,6 +247,8 @@ Connection: close
 2. `targets[0]`,  `l1_MS50eHQ. l1`첫 번째 저장 볼륨을 의미하며 MS50eHQbase64로 인코딩된 문자열이다. => `a.txt`
 3. `targets[1]`,  `l1_Mi56aXA. l1`첫 번째 저장 볼륨을 의미하며 Mi56aXAbase64로 인코딩된 문자열이다. => `a.zip`
 
-오류 메시지에 응답했지만 명령이 실행되어 shell.php 위치에 기록되었다. `http://localhost:8080/files/shell.php`.
+오류 메시지에 응답했지만 명령이 실행되어 shell.php 위치에 기록되었다.
+
+`http://localhost:8080/files/shell.php` or `http://your-ip:8080/files/shell.php`.
 
 <img src="https://github.com/mmingidan/WHS/blob/main/vulhub/web.png?raw=true">
