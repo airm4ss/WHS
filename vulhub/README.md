@@ -21,3 +21,8 @@ docker compose up -d
 ## Vulnerability Reproduce
 먼저, 2개의 파일을 준비해야 한다. 아래와 같은 일반 텍스트 파일을 만든다.
 <img src="https://github.com/mmingidan/WHS/blob/main/vulhub/make_txt.png?raw=true">
+
+
+마우스 오른쪽 버튼 클릭 메뉴에서 이 파일을 ZIP 형식으로 보관하고 보관된 파일 이름을 아래와 같이 수정한다.
+<img src="https://github.com/mmingidan/WHS/assets/102302841/db6212f2-a934-4a13-acc1-d506068da805">
+
