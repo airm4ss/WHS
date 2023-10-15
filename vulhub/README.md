@@ -219,9 +219,11 @@ end
 
 
 마우스 오른쪽 버튼 클릭해 메뉴에서 txt 파일을 zip 파일형식으로 보관한다.
+
 <img src="https://github.com/mmingidan/WHS/assets/102302841/db6212f2-a934-4a13-acc1-d506068da805">
 
 txt 파일(a.txt)과 zip 파일(a.zip)이 모두 준비되었다.
+
 <img src="https://github.com/mmingidan/WHS/blob/main/vulhub/file_fin.png?raw=true">
 
 
