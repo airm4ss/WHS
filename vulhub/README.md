@@ -44,7 +44,7 @@ Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
 Connection: close
 ```
 
-이 요청에서는 __3가지 중요한 매개변수__를 볼 수 있다.
+이 요청에서는 **3가지 중요한 매개변수**를 볼 수 있다.
 
 - `name`은 임의의 명령으로 `-TvTT=id>shell.php # a.zip`을 수정할 수 있다. => `id>shell.php`
 - `targets[0]`,  `l1_MS50eHQ. l1`첫 번째 저장 볼륨을 의미하며 MS50eHQbase64로 인코딩된 문자열이다. => `a.txt`
