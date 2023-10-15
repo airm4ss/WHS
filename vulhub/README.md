@@ -20,3 +20,4 @@ docker compose up -d
 
 ## Vulnerability Reproduce
 먼저, 2개의 파일을 준비해야 한다. 아래와 같은 일반 텍스트 파일을 만든다.
+<img src="vulhub/make_txt.png">
