@@ -241,9 +241,10 @@ Connection: close
 
 이 요청에서는 **3가지 중요한 매개변수**를 볼 수 있다.
 
-- `name`은 임의의 명령으로 `-TvTT=id>shell.php # a.zip`을 수정할 수 있다. => `id>shell.php`
-- `targets[0]`,  `l1_MS50eHQ. l1`첫 번째 저장 볼륨을 의미하며 MS50eHQbase64로 인코딩된 문자열이다. => `a.txt`
-- `targets[1]`,  `l1_Mi56aXA. l1`첫 번째 저장 볼륨을 의미하며 Mi56aXAbase64로 인코딩된 문자열이다. => `a.zip`
-이 요청은 오류 메시지에 응답했지만 명령이 실행되어 shell.php다음 위치에 기록되었다. `http://your-ip:8080/files/shell.php`.
+1. `name`은 임의의 명령으로 `-TvTT=id>shell.php # a.zip`을 수정할 수 있다. => `id>shell.php`
+2. `targets[0]`,  `l1_MS50eHQ. l1`첫 번째 저장 볼륨을 의미하며 MS50eHQbase64로 인코딩된 문자열이다. => `a.txt`
+3. `targets[1]`,  `l1_Mi56aXA. l1`첫 번째 저장 볼륨을 의미하며 Mi56aXAbase64로 인코딩된 문자열이다. => `a.zip`
+
+오류 메시지에 응답했지만 명령이 실행되어 shell.php 위치에 기록되었다. `http://localhost:8080/files/shell.php`.
 
 <img src="https://github.com/mmingidan/WHS/blob/main/vulhub/web.png?raw=true">
